@@ -1,0 +1,2 @@
+[0;32m[2020-03-15 18:04:54,639]-[INFO] test_1033_weather_query.py--> setUpClass ----->Weather/query测试用例开始执行[0m
+[0;32m[2020-03-15 18:04:54,639]-[INFO] test_1033_weather_query.py--> setUpClass ----->URL获取成功, URL:http://apis.juhe.cn/simpleWeather/query[0m
