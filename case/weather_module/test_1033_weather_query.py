@@ -19,6 +19,10 @@ class TestWeatherQuery(unittest.TestCase, GetValue, LogInfo):
         cls.request = JYRequest()
 
     @LogInfo.get_error
+    def setUp(self):
+        pass
+
+    @LogInfo.get_error
     def test_weather_query_success(self):
         # url = api_weather_query()
         # url = 'http://apis.juhe.cn/simpleWeather/query'
